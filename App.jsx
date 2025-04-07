@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const API_BASE = "https://home-assistant-api.onrender.com" // Replace with your backend URL
+const API_BASE = "https://home-assistant-api-unjt.onrender.com" // Replace with your backend URL
 
 export default function App() {
   const [events, setEvents] = useState([])
